@@ -1,0 +1,27 @@
+{
+  "name": "introduction-to-express-javascript-cojocaru-dan",
+  "version": "1.0.0",
+  "description": "No starter code is provided. Start from scratch!",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/introduction-to-express-javascript-cojocaru-dan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/introduction-to-express-javascript-cojocaru-dan/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/introduction-to-express-javascript-cojocaru-dan#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
